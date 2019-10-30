@@ -1,4 +1,4 @@
-## Scala FUnctional Programming Tutorial ##
+## Scala Functional Programming Tutorial ##
 
 
 Functional programming is a programming paradigm in which we try to bind 
@@ -8,3 +8,6 @@ an imperative style where the main focus is “how to solve”. It uses expressi
 instead of statements.
 
 Is a way of thinking about software construction by creating pure functions.
+
+I have made a basic tutorial to see how it looks like, take a look 
+:)
