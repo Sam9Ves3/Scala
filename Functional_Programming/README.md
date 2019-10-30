@@ -9,5 +9,6 @@ instead of statements.
 
 Is a way of thinking about software construction by creating pure functions.
 
-I have made a basic tutorial to see how it looks like, take a look 
+I have made a basic tutorial to see how it looks like, take a look at the code
+(Scala)
 :)
